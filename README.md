@@ -1,29 +1,25 @@
-# .
+# Sistema de Cadastro de Contatos (Teste Técnico)
 
-This template should help get you started developing with Vue 3 in Vite.
+Este projeto é um sistema web básico para gerenciamento de cadastro de contatos, desenvolvido com Vue.js. Ele permite cadastrar, listar, visualizar, editar e excluir informações de contatos.
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Para executar este projeto, você precisará ter instalado em sua máquina:
+* **Vue.js 3:**  
+* **Node 20:**  
+* **Banco de Dados:** MySQL
 
-## Customize configuration
+Para configurar e executar o projeto localmente, siga os passos abaixo:
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+1.  **Clone o Repositório:**
+    ```bash
+    git clone https://github.com/PedroBiudes/teste-uex-app
+    cd teste-uex-app
+    ```
 
-## Project Setup
+2.  **Instale as Dependências do npm:**
+    npm install
 
-```sh
-npm install
-```
+3.  **Rode o servidor de desenvolvimento:**
+    npm run dev
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+    O aplicativo estará disponível em http://localhost:5173 (ou outra porta definida no Vite).
