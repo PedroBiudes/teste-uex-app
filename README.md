@@ -1,4 +1,4 @@
-# Sistema de Cadastro de Contatos (Teste Técnico)
+# Sistema de Cadastro de Contatos
 
 Este projeto é um sistema web básico para gerenciamento de cadastro de contatos, desenvolvido com Vue.js. Ele permite cadastrar, listar, visualizar, editar e excluir informações de contatos.
 
@@ -12,8 +12,8 @@ Para configurar e executar o projeto localmente, siga os passos abaixo:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone https://github.com/PedroBiudes/teste-uex-app
-    cd teste-uex-app
+    git clone https://github.com/PedroBiudes/teste-app
+    cd teste-app
     ```
 
 2.  **Instale as Dependências do npm:**
